@@ -1,8 +1,8 @@
 let angleSlider;
 let tree = [];
 let maxDepth = 10; // Profundidad máxima del árbol
-let canvasWidth = 2600;
-let canvasHeight = 1190;
+let canvasWidth = 1920;
+let canvasHeight = 1080
 
 function setup() {
   createCanvas(canvasWidth, canvasHeight);
